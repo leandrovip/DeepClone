@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCopyExtensions", "DeepCopyExtensions\DeepCopyExtensions.csproj", "{CC922AEF-E220-4D26-B3DB-71CF08AEFE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCopyTestClasses", "DeepCopyTestClasses\DeepCopyTestClasses.csproj", "{52B3BA9B-FEE6-4EA5-965D-99221EE79F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepCopyTests", "DeepCopyTests\DeepCopyTests.csproj", "{248C95D0-F675-4166-8B6D-8735782E000B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTestApp", "SpeedTestApp\SpeedTestApp.csproj", "{0B4F8B63-30F5-44F0-A174-F17075359493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC922AEF-E220-4D26-B3DB-71CF08AEFE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC922AEF-E220-4D26-B3DB-71CF08AEFE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC922AEF-E220-4D26-B3DB-71CF08AEFE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC922AEF-E220-4D26-B3DB-71CF08AEFE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B3BA9B-FEE6-4EA5-965D-99221EE79F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B3BA9B-FEE6-4EA5-965D-99221EE79F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B3BA9B-FEE6-4EA5-965D-99221EE79F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B3BA9B-FEE6-4EA5-965D-99221EE79F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248C95D0-F675-4166-8B6D-8735782E000B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248C95D0-F675-4166-8B6D-8735782E000B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248C95D0-F675-4166-8B6D-8735782E000B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248C95D0-F675-4166-8B6D-8735782E000B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4F8B63-30F5-44F0-A174-F17075359493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4F8B63-30F5-44F0-A174-F17075359493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4F8B63-30F5-44F0-A174-F17075359493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4F8B63-30F5-44F0-A174-F17075359493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
